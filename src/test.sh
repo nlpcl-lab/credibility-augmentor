@@ -1,0 +1,1 @@
+python credibility_test_script.py --generated_path ../generated --test_data_path ../data/test.jsonl --mf ../models

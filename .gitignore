@@ -1,0 +1,6 @@
+backups/*
+models/*.json
+models/*.bin
+generated/*.jsonl
+src/runs/*
+*.pyc
